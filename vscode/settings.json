@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 14,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "terminal.integrated.fontFamily": "Meslo LG S for Powerline",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.fontSize": 13,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.guides.bracketPairs": "active",
+    "workbench.colorTheme": "Vitesse Black",
+    "workbench.iconTheme": "material-icon-theme"
+}
