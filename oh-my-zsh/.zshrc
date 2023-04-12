@@ -5,3 +5,4 @@ ZSH_THEME="spaceship"
 # Alias
 alias c="code ./"
 alias o="open ./"
+alias p="scrcpy -S"
